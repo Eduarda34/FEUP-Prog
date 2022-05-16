@@ -9,15 +9,19 @@
 
 ### Testes
 
-| color.cpp  | ✔️ |
-| image.cpp  | ✔️ |
-| script.cpp | ✔️ |
+|               |       |                          
+|  ---          | ---   |
+| color.cpp     |  ✔️   |
+| image.cpp     |  ✔️   |
+| script.cpp    |  ✔️   |
 
 ### Doxygen
 
-| color.cpp  | ✔️ |
-| image.cpp  | ✔️ |
-| script.cpp | ✔️ |
+|               |       |                          
+|  ---          | ---   |
+| color.cpp     |  ✔️   |
+| image.cpp     |  ✔️   |
+| script.cpp    |  ✔️   |
 
 #### Classificação: 18,2V
 
